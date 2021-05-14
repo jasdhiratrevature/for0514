@@ -1,0 +1,5 @@
+package com.revature.spring.rest.crud.model;
+
+public class Employee {
+
+}

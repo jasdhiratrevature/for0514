@@ -1,0 +1,5 @@
+package com.revature.spring.rest.client;
+
+public class RestTemplateClient {
+
+}

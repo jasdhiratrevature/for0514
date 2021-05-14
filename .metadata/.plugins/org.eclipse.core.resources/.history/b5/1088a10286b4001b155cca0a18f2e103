@@ -1,0 +1,5 @@
+package com.revature.spring.profiles.service;
+
+public class SunnyDayService {
+
+}

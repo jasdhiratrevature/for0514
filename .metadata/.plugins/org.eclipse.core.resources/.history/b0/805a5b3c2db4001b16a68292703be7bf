@@ -1,0 +1,5 @@
+package com.revature.spring.rest.controllers;
+
+public class GreetingController {
+
+}
